@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.expo/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
